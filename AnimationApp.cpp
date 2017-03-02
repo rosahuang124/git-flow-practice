@@ -24,7 +24,7 @@ class AnimationApp : public App {
     ci::Anim<ci::vec2> subButtonThreePos_after;
 
 
-    int circleNum = 10;
+    int circleNum = 100;
     int size;
 
 };
